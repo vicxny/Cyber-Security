@@ -6,6 +6,10 @@
 
 [Professor Messer](youtube.com/@professormesser/playlists)
 
+[3 Ways to get SANS GIAC certified CHEAPER](https://www.youtube.com/watch?v=bQCcv2xIh9k)
+
+- [SANS Work Study ](https://www.sans.org/work-study-program/)
+
 Courses | Offered by | Type | Pace | Video |
 :-- | :--: | :--: | :--: | :--: |
 [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity) | Google | Foundation | Approximately 3 months |
@@ -13,4 +17,13 @@ Courses | Offered by | Type | Pace | Video |
 [Blue Team Level 1](https://www.securityblue.team/why-btl1) | Blue Team | Specialization | Approximately 3 months |
 [InfoSec Forensic Courses](https://imp.i384100.net/5gj7DN) | InforSec | Specialization: Forensic | Approximately 3 months |
 [TCM Practical Windows Forensics](https://academy.tcm-sec.com/p/practical-windows-forensics?affcode=770707_qojriz7g) | TCM | Specialization: Forensic | Approximately 3 months |
+
+[Splunk](https://www.splunk.com/en_us/training/free-courses/overview.html) | Splunk | Specialization: Threat Management | Approximately 3 months |
+
+##  Specialization: Forensic 
+
+[GIAC Certified Forensic Examiner (GCFE)](https://www.giac.org/certifications/certified-forensic-examiner-gcfe/)
+
+[GIAC Certified Forensic Analyst (GCFA)](https://www.giac.org/certifications/certified-forensic-analyst-gcfa/)
+
 
