@@ -13,7 +13,7 @@ Courses | Offered by | Type | Pace | Video |
 [Blue Team Level 1](https://www.securityblue.team/why-btl1) | Blue Team | Specialization | Approximately 3 months |
 [InfoSec Forensic Courses](https://imp.i384100.net/5gj7DN) | InforSec | Specialization: Forensic | Approximately 3 months |
 [TCM Practical Windows Forensics](https://academy.tcm-sec.com/p/practical-windows-forensics?affcode=770707_qojriz7g) | TCM | Specialization: Forensic | Approximately 3 months |
-[Splunk]()| Splunk | Specialization: Threat Management | Approximately 3 months 
+[Splunk](https://www.splunk.com/en_us/training/free-courses/overview.html)| Splunk | Specialization: Threat Management | Approximately 3 months 
 [Python 101 for Hackers](https://academy.tcm-sec.com/p/python-101-for-hackers?affcode=770707_qojriz7g) and [Python 102 for Hackers](https://academy.tcm-sec.com/p/python-201-for-hackers?affcode=770707_qojriz7g) | TCM | Specialization: Security Automation | Approximately 3 months |
 [Blue Team Level 2](https://www.securityblue.team/btl2) | Blue Team | Specialization Advanced | Approximately 3 months |
 
