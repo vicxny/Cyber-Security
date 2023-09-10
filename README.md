@@ -32,5 +32,9 @@ Courses | Offered by | Type | Pace | Video |
 
 - [SANS Work Study ](https://www.sans.org/work-study-program/)
 
+## Youtuber
 
+[Mad Hat](https://www.youtube.com/@madhatistaken/videos)
+
+[UnixGuy | Cyber Security Career](https://www.youtube.com/@UnixGuy)
 
