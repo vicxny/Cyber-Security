@@ -9,7 +9,7 @@
 Courses | Offered by | Type | Pace | Video |
 :-- | :--: | :--: | :--: | :--: |
 [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity) | Google | Foundation | Approximately 3 months |
-[CompTIA Security+](https://www.comptia.org/certifications/security) | CompTIA | Foundation | Approximately 3 months | [Video](https://www.youtube.com/playlist?list=PL7XJSuT7Dq_VD3eHXQf3Ld2ceBSFCayns)
+[CompTIA Security+](https://www.comptia.org/certifications/security) | CompTIA | Foundation | Approximately 3 months | [Video](https://www.youtube.com/watch?v=dHxEd5o_22I)
 [Blue Team Level 1](https://www.securityblue.team/why-btl1) | Blue Team | Specialization | Approximately 3 months |
 [InfoSec Forensic Courses](https://imp.i384100.net/5gj7DN) | InforSec | Specialization: Forensic | Approximately 3 months |
 [TCM Practical Windows Forensics](https://academy.tcm-sec.com/p/practical-windows-forensics?affcode=770707_qojriz7g) | TCM | Specialization: Forensic | Approximately 3 months |
