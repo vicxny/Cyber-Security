@@ -4,6 +4,8 @@
 
 [Beginner cyber security projects you NEED to get hired](https://www.youtube.com/watch?v=LFlsDm8w36A&t=115s)
 
+[FASTEST way to become an Ethical Hacker and ACTUALLY get a job – UPDATED (2023)](https://www.youtube.com/watch?v=8K7iAJ9BNl0&list=PLdI5VHN89i7X932iFp7-M30FM9J8QHqOk&index=9)
+
 Courses | Offered by | Type | Pace | Video |
 :-- | :--: | :--: | :--: | :--: |
 [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity) | Google | Foundation | Approximately 3 months |
