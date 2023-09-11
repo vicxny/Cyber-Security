@@ -16,6 +16,7 @@ Courses | Offered by | Type | Pace | Video |
 [Splunk](https://www.splunk.com/en_us/training/free-courses/overview.html)| Splunk | Specialization: Threat Management | Approximately 3 months 
 [Python 101 for Hackers](https://academy.tcm-sec.com/p/python-101-for-hackers?affcode=770707_qojriz7g) and [Python 102 for Hackers](https://academy.tcm-sec.com/p/python-201-for-hackers?affcode=770707_qojriz7g) | TCM | Specialization: Security Automation | Approximately 3 months |
 [Blue Team Level 2](https://www.securityblue.team/btl2) | Blue Team | Specialization Advanced | Approximately 3 months |
+[CISSP](https://www.isc2.org/certifications/cissp) | CISSP | Specialization Advanced | Approximately 3 months |
 
 ## Video
 
