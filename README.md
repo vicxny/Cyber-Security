@@ -24,7 +24,7 @@ Courses | Offered by | Type | Pace | Video |
 
 [Inside Cloud and Security](https://www.youtube.com/@InsideCloudAndSecurity/playlists)
 
-[Professor Messer](youtube.com/@professormesser/playlists)
+[Professor Messer](https://youtube.com/@professormesser/playlists)
 
 
 ##  Specialization: Forensic 
