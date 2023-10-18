@@ -42,3 +42,5 @@ Courses | Offered by | Type | Pace | Video |
 [UnixGuy | Cyber Security Career](https://www.youtube.com/@UnixGuy)
 
 [The Cyber Mentor](https://www.youtube.com/playlist?list=PLLKT__MCUeixqHJ1TRqrHsEd6_EdEvo47)
+
+# Cloud Cyber Security
