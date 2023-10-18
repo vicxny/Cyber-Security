@@ -56,4 +56,4 @@ Courses | Offered by | Type | Pace | Video |
 [Create a Virtual Private Cloud (VPC) Using AWS](https://imp.i384100.net/y2LR2D) | AWS | Expand Knowledge | Approximately 1 day |
 [Deploy a Wordpress Website in AWS EC2](https://imp.i384100.net/75xm53) | AWS | Expand Knowledge  | Approximately 1 day |
 [ACloudGuru AWS Security Specialty](https://www.pluralsight.com/cloud-guru/courses/aws-certified-security-specialty-scs-c02) | AWS | Expand Knowledge  | Approximately 6 months |
-[Google Cloud Security Engineer:](https://imp.i384100.net/0ZOJZ3) | Google | Expand Knowledge  | Approximately 6 months |
+[Google Cloud Security Engineer](https://imp.i384100.net/0ZOJZ3) | Google | Expand Knowledge  | Approximately 6 months |
