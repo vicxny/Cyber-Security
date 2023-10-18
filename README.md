@@ -50,7 +50,10 @@ Courses | Offered by | Type | Pace | Video |
 Courses | Offered by | Type | Pace | Video |
 :-- | :--: | :--: | :--: | :--: |
 [Microsoft Cybersecurity Analyst Professional Certificate](https://imp.i384100.net/EKyDGn) | Microsoft | Foundation | Approximately 6 months |
-[Azure: Create a Virtual Machine and Deploy a Web Server](https://imp.i384100.net/XYZxY5) | Microsoft | Practical Project | Approximately 6 months |
-[Securing Azure SQL Database](https://imp.i384100.net/R5ay57) | Microsoft | Practical Project | Approximately 6 months |
+[Azure: Create a Virtual Machine and Deploy a Web Server](https://imp.i384100.net/XYZxY5) | Microsoft | Practical Project | Approximately 1 day |
+[Securing Azure SQL Database](https://imp.i384100.net/R5ay57) | Microsoft | Practical Project | Approximately 1 day |
 [Microsoft Azure Security Engineer Associate (AZ-500) Professional](https://imp.i384100.net/XYZxY5) | Microsoft | Secure The Cloud | Approximately 6 months |
-
+[Create a Virtual Private Cloud (VPC) Using AWS](https://imp.i384100.net/y2LR2D) | AWS | Expand Knowledge | Approximately 1 day |
+[Deploy a Wordpress Website in AWS EC2](https://imp.i384100.net/75xm53) | AWS | Expand Knowledge  | Approximately 1 day |
+[ACloudGuru AWS Security Specialty](https://www.pluralsight.com/cloud-guru/courses/aws-certified-security-specialty-scs-c02) | AWS | Expand Knowledge  | Approximately 6 months |
+[Google Cloud Security Engineer:](https://imp.i384100.net/0ZOJZ3) | Google | Expand Knowledge  | Approximately 6 months |
