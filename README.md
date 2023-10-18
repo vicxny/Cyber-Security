@@ -44,3 +44,13 @@ Courses | Offered by | Type | Pace | Video |
 [The Cyber Mentor](https://www.youtube.com/playlist?list=PLLKT__MCUeixqHJ1TRqrHsEd6_EdEvo47)
 
 # Cloud Cyber Security
+
+[FASTEST way to become Cloud Security Engineer and ACTUALLY get a job – UPDATED (2023)](https://www.youtube.com/watch?v=zFFMhpCLJi0&t=29s)
+
+Courses | Offered by | Type | Pace | Video |
+:-- | :--: | :--: | :--: | :--: |
+[Microsoft Cybersecurity Analyst Professional Certificate](https://imp.i384100.net/EKyDGn) | Microsoft | Foundation | Approximately 6 months |
+[Azure: Create a Virtual Machine and Deploy a Web Server](https://imp.i384100.net/XYZxY5) | Microsoft | Practical Project | Approximately 6 months |
+[Securing Azure SQL Database](https://imp.i384100.net/R5ay57) | Microsoft | Practical Project | Approximately 6 months |
+[Microsoft Azure Security Engineer Associate (AZ-500) Professional](https://imp.i384100.net/XYZxY5) | Microsoft | Secure The Cloud | Approximately 6 months |
+
