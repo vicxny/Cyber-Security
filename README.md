@@ -47,6 +47,10 @@ Courses | Offered by | Type | Pace | Video |
 
 [FASTEST way to become Cloud Security Engineer and ACTUALLY get a job – UPDATED (2023)](https://www.youtube.com/watch?v=zFFMhpCLJi0&t=29s)
 
+[From Zero to Cloud Security Hero in 2023: A Step-by-Step Guide](https://www.youtube.com/watch?v=5M7HZJxunQc)
+
+[Learn To Cloud](https://learntocloud.guide/docs/Welcome)
+
 Courses | Offered by | Type | Pace | Video |
 :-- | :--: | :--: | :--: | :--: |
 [Microsoft Cybersecurity Analyst Professional Certificate](https://imp.i384100.net/EKyDGn) | Microsoft | Foundation | Approximately 6 months |
