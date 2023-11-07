@@ -1,5 +1,7 @@
 # Cyber Security
 
+## Language - C++
+
 [FASTEST way to become a Cyber Analyst and ACTUALLY get a job](https://www.youtube.com/watch?v=DRJic8vCodE)
 
 [Beginner cyber security projects you NEED to get hired](https://www.youtube.com/watch?v=LFlsDm8w36A&t=115s)
