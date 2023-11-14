@@ -65,3 +65,8 @@ Courses | Offered by | Type | Pace | Video |
 [Deploy a Wordpress Website in AWS EC2](https://imp.i384100.net/75xm53) | AWS | Expand Knowledge  | Approximately 1 day |
 [ACloudGuru AWS Security Specialty](https://www.pluralsight.com/cloud-guru/courses/aws-certified-security-specialty-scs-c02) | AWS | Expand Knowledge  | Approximately 6 months |
 [Google Cloud Security Engineer](https://imp.i384100.net/0ZOJZ3) | Google | Expand Knowledge  | Approximately 6 months |
+
+# Cloud Engineer
+Courses | Offered by | Type | Pace | Video |
+:-- | :--: | :--: | :--: | :--: |
+[AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) | AWS | Foundation | Approximately 6 months |
