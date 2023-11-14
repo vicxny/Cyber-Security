@@ -69,4 +69,4 @@ Courses | Offered by | Type | Pace | Video |
 # Cloud Engineer
 Courses | Offered by | Type | Pace | Video |
 :-- | :--: | :--: | :--: | :--: |
-[AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) | AWS | Foundation | Approximately 6 months |
+[AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) | AWS | Foundation | Approximately 6 months |  [Video 1](https://www.youtube.com/watch?v=dHxEd5o_22I) [Video 2](https://m.youtube.com/watch?v=Uq5w1lnKzlk&pp=ygUWI2VjMmFkdmFuY2VkdGVjaG5pcXVlcw%3D%3D)
