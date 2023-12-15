@@ -6,6 +6,8 @@
 
 [FASTEST way to become a Cyber Analyst and ACTUALLY get a job](https://www.youtube.com/watch?v=DRJic8vCodE)
 
+[How to get into Cybersecurity with NO Experience - The Ultimate Guide](https://www.youtube.com/watch?v=a83ASGn_V_s)
+
 [Beginner cyber security projects you NEED to get hired](https://www.youtube.com/watch?v=LFlsDm8w36A&t=115s)
 
 [FASTEST way to become an Ethical Hacker and ACTUALLY get a job – UPDATED (2023)](https://www.youtube.com/watch?v=8K7iAJ9BNl0&list=PLdI5VHN89i7X932iFp7-M30FM9J8QHqOk&index=9)
