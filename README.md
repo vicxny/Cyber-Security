@@ -12,6 +12,8 @@
 
 [FASTEST way to become an Ethical Hacker and ACTUALLY get a job – UPDATED (2023)](https://www.youtube.com/watch?v=8K7iAJ9BNl0&list=PLdI5VHN89i7X932iFp7-M30FM9J8QHqOk&index=9)
 
+[Roadmap to careers in cybersecurity and cloud engineering](https://www.reddit.com/r/ITCareerQuestions/comments/zrd5c7/roadmap_to_careers_in_cybersecurity_and_cloud/)
+
 Courses | Offered by | Type | Pace | Video |
 :-- | :--: | :--: | :--: | :--: |
 [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity) | Google | Foundation | Approximately 3 months |
